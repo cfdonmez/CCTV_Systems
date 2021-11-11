@@ -9,4 +9,4 @@ Camera Type = IP
 Network Architecture = Star Topology
 
 
-Server  = Yes
+
